@@ -479,8 +479,8 @@ msgstr ""
 "<p>Willkommn bei Taiga, einer agilen Open-Source-Projektverwaltung</p>"
 
 #: taiga/base/templates/emails/updates-body-html.jinja:6
-msgid "[Taiga] Updates"
-msgstr "[Taiga] Aktualisierungen"
+msgid "[Siege] Updates"
+msgstr "[Siege] Aktualisierungen"
 
 #: taiga/base/templates/emails/updates-body-html.jinja:417
 msgid "Updates"
@@ -825,8 +825,8 @@ msgstr ""
 #: taiga/export_import/templates/emails/import_error-subject.jinja:1
 #: taiga/importers/templates/emails/importer_import_error-subject.jinja:1
 #, python-format
-msgid "[Taiga] %(error_subject)s"
-msgstr "[Taiga] %(error_subject)s"
+msgid "[Siege] %(error_subject)s"
+msgstr "[Siege] %(error_subject)s"
 
 #: taiga/export_import/templates/emails/load_dump-body-html.jinja:4
 #, python-format
@@ -1030,10 +1030,10 @@ msgstr "- Zusätzliche Information:"
 #, python-format
 msgid ""
 "\n"
-"[Taiga] Feedback from %(full_name)s <%(email)s>\n"
+"[Siege] Feedback from %(full_name)s <%(email)s>\n"
 msgstr ""
 "\n"
-"[Taiga] Feedback von %(full_name)s <%(email)s>\n"
+"[Siege] Feedback von %(full_name)s <%(email)s>\n"
 "   \n"
 
 #: taiga/hooks/api.py:54
@@ -1750,7 +1750,7 @@ msgstr ""
 #, python-format
 msgid ""
 "\n"
-"[Taiga] %(full_name)s has sent a message to the project %(project_name)s\n"
+"[Siege] %(full_name)s has sent a message to the project %(project_name)s\n"
 msgstr ""
 
 #: taiga/projects/custom_attributes/choices.py:29
@@ -3538,10 +3538,10 @@ msgstr ""
 #, python-format
 msgid ""
 "\n"
-"[Taiga] Invitation to join to the project '%(project)s'\n"
+"[Siege] Invitation to join to the project '%(project)s'\n"
 msgstr ""
 "\n"
-"[Taiga] Einladung zur Teilnahme am Projekt '%(project)s'\n"
+"[Siege] Einladung zur Teilnahme am Projekt '%(project)s'\n"
 "\n"
 
 #: taiga/projects/templates/emails/membership_notification-body-html.jinja:4
@@ -3585,10 +3585,10 @@ msgstr ""
 #, python-format
 msgid ""
 "\n"
-"[Taiga] Added to the project '%(project)s'\n"
+"[Siege] Added to the project '%(project)s'\n"
 msgstr ""
 "\n"
-" [Taiga] Zum Projekt hinzugefügt '%(project)s'\n"
+" [Siege] Zum Projekt hinzugefügt '%(project)s'\n"
 " \n"
 
 #: taiga/projects/templates/emails/transfer_accept-body-html.jinja:4
@@ -4472,8 +4472,8 @@ msgstr ""
 "Das Siege Team\n"
 
 #: taiga/users/templates/emails/change_email-subject.jinja:1
-msgid "[Taiga] Change email"
-msgstr "[Taiga] E-Mail ändern"
+msgid "[Siege] Change email"
+msgstr "[Siege] E-Mail ändern"
 
 #: taiga/users/templates/emails/password_recovery-body-html.jinja:4
 #, python-format
@@ -4524,8 +4524,8 @@ msgstr ""
 "\n"
 
 #: taiga/users/templates/emails/password_recovery-subject.jinja:1
-msgid "[Taiga] Password recovery"
-msgstr "[Taiga] Passwort-Wiederherstellung"
+msgid "[Siege] Password recovery"
+msgstr "[Siege] Passwort-Wiederherstellung"
 
 #: taiga/users/templates/emails/registered_user-body-html.jinja:6
 msgid ""

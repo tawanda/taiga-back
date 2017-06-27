@@ -475,7 +475,7 @@ msgstr ""
 "                                                "
 
 #: taiga/base/templates/emails/updates-body-html.jinja:6
-msgid "[Taiga] Updates"
+msgid "[Siege] Updates"
 msgstr "[타이가] 업데이트"
 
 #: taiga/base/templates/emails/updates-body-html.jinja:417
@@ -818,7 +818,7 @@ msgstr ""
 #: taiga/export_import/templates/emails/import_error-subject.jinja:1
 #: taiga/importers/templates/emails/importer_import_error-subject.jinja:1
 #, python-format
-msgid "[Taiga] %(error_subject)s"
+msgid "[Siege] %(error_subject)s"
 msgstr "[타이가] %(error_subject)s"
 
 #: taiga/export_import/templates/emails/load_dump-body-html.jinja:4
@@ -1022,7 +1022,7 @@ msgstr "- 추가 정보:"
 #, python-format
 msgid ""
 "\n"
-"[Taiga] Feedback from %(full_name)s <%(email)s>\n"
+"[Siege] Feedback from %(full_name)s <%(email)s>\n"
 msgstr ""
 "\n"
 "[타이가] %(full_name)s <%(email)s>의 피드백\n"
@@ -1777,10 +1777,10 @@ msgstr ""
 #, python-format
 msgid ""
 "\n"
-"[Taiga] %(full_name)s has sent a message to the project %(project_name)s\n"
+"[Siege] %(full_name)s has sent a message to the project %(project_name)s\n"
 msgstr ""
 "\n"
-"[Taiga] %(full_name)s 님께서 %(project_name)s 프로젝트에 메시지를 보냈습니"
+"[Siege] %(full_name)s 님께서 %(project_name)s 프로젝트에 메시지를 보냈습니"
 "다.\n"
 
 #: taiga/projects/custom_attributes/choices.py:29
@@ -3582,7 +3582,7 @@ msgstr ""
 #, python-format
 msgid ""
 "\n"
-"[Taiga] Invitation to join to the project '%(project)s'\n"
+"[Siege] Invitation to join to the project '%(project)s'\n"
 msgstr ""
 "\n"
 "[타이가] '%(project)s' 프로젝트로 초대하는 초대장\n"
@@ -3627,7 +3627,7 @@ msgstr ""
 #, python-format
 msgid ""
 "\n"
-"[Taiga] Added to the project '%(project)s'\n"
+"[Siege] Added to the project '%(project)s'\n"
 msgstr ""
 "\n"
 "[타이가] '%(project)s' 프로젝트가 추가되었습니다.\n"
@@ -4573,7 +4573,7 @@ msgstr ""
 "타이가 팀\n"
 
 #: taiga/users/templates/emails/change_email-subject.jinja:1
-msgid "[Taiga] Change email"
+msgid "[Siege] Change email"
 msgstr "[타이가] 이메일 변경"
 
 #: taiga/users/templates/emails/password_recovery-body-html.jinja:4
@@ -4622,7 +4622,7 @@ msgstr ""
 "타이가 팀\n"
 
 #: taiga/users/templates/emails/password_recovery-subject.jinja:1
-msgid "[Taiga] Password recovery"
+msgid "[Siege] Password recovery"
 msgstr "[타이가] 비밀번호 복구"
 
 #: taiga/users/templates/emails/registered_user-body-html.jinja:6

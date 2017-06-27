@@ -441,8 +441,8 @@ msgstr ""
 "<p>歡迎加入Taiga, 它是一個開放碼敏捷的專案管理工具</p>"
 
 #: taiga/base/templates/emails/updates-body-html.jinja:6
-msgid "[Taiga] Updates"
-msgstr "[Taiga] 更新"
+msgid "[Siege] Updates"
+msgstr "[Siege] 更新"
 
 #: taiga/base/templates/emails/updates-body-html.jinja:417
 msgid "Updates"
@@ -765,8 +765,8 @@ msgstr ""
 #: taiga/export_import/templates/emails/import_error-subject.jinja:1
 #: taiga/importers/templates/emails/importer_import_error-subject.jinja:1
 #, python-format
-msgid "[Taiga] %(error_subject)s"
-msgstr "[Taiga] %(error_subject)s"
+msgid "[Siege] %(error_subject)s"
+msgstr "[Siege] %(error_subject)s"
 
 #: taiga/export_import/templates/emails/load_dump-body-html.jinja:4
 #, python-format
@@ -965,10 +965,10 @@ msgstr "-額外資訊:"
 #, python-format
 msgid ""
 "\n"
-"[Taiga] Feedback from %(full_name)s <%(email)s>\n"
+"[Siege] Feedback from %(full_name)s <%(email)s>\n"
 msgstr ""
 "\n"
-"[Taiga] 回饋來自 %(full_name)s <%(email)s>\n"
+"[Siege] 回饋來自 %(full_name)s <%(email)s>\n"
 
 #: taiga/hooks/api.py:54
 msgid "The payload is not a valid json"
@@ -1682,7 +1682,7 @@ msgstr ""
 #, python-format
 msgid ""
 "\n"
-"[Taiga] %(full_name)s has sent a message to the project %(project_name)s\n"
+"[Siege] %(full_name)s has sent a message to the project %(project_name)s\n"
 msgstr ""
 
 #: taiga/projects/custom_attributes/choices.py:29
@@ -3413,10 +3413,10 @@ msgstr ""
 #, python-format
 msgid ""
 "\n"
-"[Taiga] Invitation to join to the project '%(project)s'\n"
+"[Siege] Invitation to join to the project '%(project)s'\n"
 msgstr ""
 "\n"
-"[Taiga]邀請加入專案t '%(project)s\n"
+"[Siege]邀請加入專案t '%(project)s\n"
 
 #: taiga/projects/templates/emails/membership_notification-body-html.jinja:4
 #, python-format
@@ -3457,10 +3457,10 @@ msgstr ""
 #, python-format
 msgid ""
 "\n"
-"[Taiga] Added to the project '%(project)s'\n"
+"[Siege] Added to the project '%(project)s'\n"
 msgstr ""
 "\n"
-"[Taiga] 被加入專案 '%(project)s'\n"
+"[Siege] 被加入專案 '%(project)s'\n"
 
 #: taiga/projects/templates/emails/transfer_accept-body-html.jinja:4
 #, python-format
@@ -4310,8 +4310,8 @@ msgstr ""
 "Taiga團隊 \n"
 
 #: taiga/users/templates/emails/change_email-subject.jinja:1
-msgid "[Taiga] Change email"
-msgstr "[Taiga]更換電子郵件"
+msgid "[Siege] Change email"
+msgstr "[Siege]更換電子郵件"
 
 #: taiga/users/templates/emails/password_recovery-body-html.jinja:4
 #, python-format
@@ -4356,8 +4356,8 @@ msgstr ""
 "The Siege Team\n"
 
 #: taiga/users/templates/emails/password_recovery-subject.jinja:1
-msgid "[Taiga] Password recovery"
-msgstr "[Taiga] 密碼恢復　"
+msgid "[Siege] Password recovery"
+msgstr "[Siege] 密碼恢復　"
 
 #: taiga/users/templates/emails/registered_user-body-html.jinja:6
 msgid ""

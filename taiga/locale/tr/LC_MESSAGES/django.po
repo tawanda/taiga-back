@@ -455,8 +455,8 @@ msgstr ""
 "<p>Taiga'ya Hoş Geldiniz: Açık Kaynak, Çevik Proje Yönetim Aygıtı</p>"
 
 #: taiga/base/templates/emails/updates-body-html.jinja:6
-msgid "[Taiga] Updates"
-msgstr "[Taiga] Güncellemeler"
+msgid "[Siege] Updates"
+msgstr "[Siege] Güncellemeler"
 
 #: taiga/base/templates/emails/updates-body-html.jinja:417
 msgid "Updates"
@@ -779,8 +779,8 @@ msgstr ""
 #: taiga/export_import/templates/emails/import_error-subject.jinja:1
 #: taiga/importers/templates/emails/importer_import_error-subject.jinja:1
 #, python-format
-msgid "[Taiga] %(error_subject)s"
-msgstr "[Taiga] %(error_subject)s"
+msgid "[Siege] %(error_subject)s"
+msgstr "[Siege] %(error_subject)s"
 
 #: taiga/export_import/templates/emails/load_dump-body-html.jinja:4
 #, python-format
@@ -980,10 +980,10 @@ msgstr "- Ekstra bilgi:"
 #, python-format
 msgid ""
 "\n"
-"[Taiga] Feedback from %(full_name)s <%(email)s>\n"
+"[Siege] Feedback from %(full_name)s <%(email)s>\n"
 msgstr ""
 "\n"
-"[Taiga]  %(full_name)s <%(email)s> den geri bildirim\n"
+"[Siege]  %(full_name)s <%(email)s> den geri bildirim\n"
 
 #: taiga/hooks/api.py:54
 msgid "The payload is not a valid json"
@@ -1697,7 +1697,7 @@ msgstr ""
 #, python-format
 msgid ""
 "\n"
-"[Taiga] %(full_name)s has sent a message to the project %(project_name)s\n"
+"[Siege] %(full_name)s has sent a message to the project %(project_name)s\n"
 msgstr ""
 
 #: taiga/projects/custom_attributes/choices.py:29
@@ -3226,10 +3226,10 @@ msgstr ""
 #, python-format
 msgid ""
 "\n"
-"[Taiga] Invitation to join to the project '%(project)s'\n"
+"[Siege] Invitation to join to the project '%(project)s'\n"
 msgstr ""
 "\n"
-"[Taiga] Projeye katılma davetiyesi '%(project)s'\n"
+"[Siege] Projeye katılma davetiyesi '%(project)s'\n"
 
 #: taiga/projects/templates/emails/membership_notification-body-html.jinja:4
 #, python-format
@@ -3263,10 +3263,10 @@ msgstr ""
 #, python-format
 msgid ""
 "\n"
-"[Taiga] Added to the project '%(project)s'\n"
+"[Siege] Added to the project '%(project)s'\n"
 msgstr ""
 "\n"
-"[Taiga] '%(project)s' Projesine eklendi\n"
+"[Siege] '%(project)s' Projesine eklendi\n"
 
 #: taiga/projects/templates/emails/transfer_accept-body-html.jinja:4
 #, python-format
@@ -4099,8 +4099,8 @@ msgid ""
 msgstr ""
 
 #: taiga/users/templates/emails/change_email-subject.jinja:1
-msgid "[Taiga] Change email"
-msgstr "[Taiga] E-mail Değiştir"
+msgid "[Siege] Change email"
+msgstr "[Siege] E-mail Değiştir"
 
 #: taiga/users/templates/emails/password_recovery-body-html.jinja:4
 #, python-format
@@ -4130,8 +4130,8 @@ msgid ""
 msgstr ""
 
 #: taiga/users/templates/emails/password_recovery-subject.jinja:1
-msgid "[Taiga] Password recovery"
-msgstr "[Taiga] Parola geri kurtarma"
+msgid "[Siege] Password recovery"
+msgstr "[Siege] Parola geri kurtarma"
 
 #: taiga/users/templates/emails/registered_user-body-html.jinja:6
 msgid ""
